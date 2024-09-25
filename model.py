@@ -89,6 +89,9 @@ class Model:
         ax2.plot(item_code_df['Item Code'], item_code_df['Cumulative %'], color='red', marker='o')
         ax2.set_ylabel('Cumulative % of Revenue Contribution', color='red')
         ax2.tick_params(axis='y', labelcolor='red')
+        
+        # Set the limits for the right y-axis to always range from 0 to 100%
+        ax2.set_ylim(0, 110)
 
         # Set the title
         plt.title('Revenue Contribution and Cumulative % by Item Code')
@@ -98,6 +101,7 @@ class Model:
         plt.show()
         
         return fig
+
     
     def create_upsell_configuration_dataframe(self, demand_df, conversion_rate):
         # Merge demand_df with upsell_recommendation_df to align treatment names
@@ -113,12 +117,12 @@ class Model:
     
     def calculate_existing_and_upsell(self, demand_df, upsell_config_df):
         # Step 1: Run the original calculate_existing_condition method
-        merged_df, total_revenue, total_cost, total_duration = self.calculate_existing_condition(demand_df)
+        merged_df, total_revenue, total_cost, total_duration = self.calculate_existing_and_upsell(demand_df)
         
         # Step 2: Initialize variables for tracking upsell metrics
-        additional_revenue = 0
-        additional_cost = 0
-        additional_duration = 0
+        # additional_revenue = 0
+        # additional_cost = 0
+        # additional_duration = 0
 
         # Create a copy of merged_df to update
         updated_df = merged_df.copy()
@@ -148,9 +152,9 @@ class Model:
             upsell_duration = upsell_details['total_duration'].values[0]
             
             # Step 5: Calculate the additional revenue, cost, and duration from upselling
-            additional_revenue += upsell_price * upsell_demand
-            additional_cost += upsell_cost * upsell_demand
-            additional_duration += upsell_duration * upsell_demand
+            # additional_revenue += upsell_price * upsell_demand
+            # additional_cost += upsell_cost * upsell_demand
+            # additional_duration += upsell_duration * upsell_demand
 
             # Step 6: Check if upsell treatment already exists in updated_df, sum the demand if so
             if upsell_treatment in updated_df['Treatment'].values:
@@ -182,7 +186,7 @@ class Model:
         final_total_cost = updated_df['Total Cost'].sum()
         final_total_duration = updated_df['Total Duration'].sum()
         
-        updated_df = updated_df[['Treatment', 'Demand']]
+        # updated_df = updated_df[['Treatment', 'Demand']]
 
         # Step 8: Return final totals and the updated DataFrame
         return final_total_revenue, final_total_cost, final_total_duration, updated_df
