@@ -1,0 +1,133 @@
+No,Treatment,item number list
+1,Consultation,015
+2,Consultation and TP presentation,015/018
+3,Treatment Planning,037.072.073.221.011
+4,Quick clean - scalling,114
+5,Routine Clean - dental checkup,013.114.121.141
+6,Advanced Hygiene,011.114.121.037.221.022.072
+7,Basic Clean,012.114.121
+8,Prevention Seal,161
+9,Caries Xrays,022x4
+10,Minor Fill front teeth,521.941
+11,Minor Fill back teeth,531.941
+12,Medium Fill Front teeth,523.941
+13,Medium Fill Back teeth,533.941
+14,Major fill Front Teeth,525.578.941
+15,Major fill Back Teeth,"
+535.577.941"
+16,Baby Tooth Extraction,311.022.941
+17,Minor Extraction ,322.022.941
+18,Medium Extraction ,323.022.941
+19,Major Extraction,324.022.941
+20,Emergency,013.419.022.572.941
+21,Root canal 1,415.022x2.572.417.941x2
+22,Root canal 2,415.416.022x2.417.418.572.941x2
+23,Root canal 3,415.416x2.022x2.417.418x2.572.941x3
+24,Root canal 4,415.416x3.022x3.417.418x3.572.941x3
+25,Simple gum treatment,250.941
+26,Simple gum treatment follow up,251.941
+27,Deep Gum treatment,222x4.941
+28,Gingivectomy - per tooth,941.231.022
+29,Crown Lengthening - per tooth,941.238.022
+30,Acute periodontal disease,941.213.022
+31,Deep Gum treatment With Laser (LAPT),945.941.222x7
+32,Sparkling smile (In & Out ),941/238/022
+33,Pearly white (Whitening kit ),013/111/071/119x2
+34,Smile Fix,013/111/526/941
+35,Refresh (New),013/888/927
+36,Rejuvenate (New),013/888x3/ 927
+37,Lite Aligner ( Easy Level),"Pre Aligner (825/825/071/071/115/862x6/014/982x2) +Monitoring Appointments (014/115/072/073/141)x2   + Post Aligner (845/845/071/071/871)
+"
+38,Basic Aligner (Medium Level),"Pre Aligner (825/825/071/071/115/862x6/014/982x2) +Monitoring Appointments (014/115/072/073/141)x6   + Post Aligner (845/845/071/071/871)
+"
+39,Premium Aligner (Difficult Level),"Pre Aligner (825/825/071/071/115/862x6/014/982x2) +1Monitoring Appointments (014/115/072/073/141)x11   + Post Aligner (845/845/071/071/871)
+"
+40,Mouth Guard pro,071/151
+41,Wear Protect - Occlusal Splint,015/071x2/965x2
+42,Dental Implant & Crown,688/673/679/022x2/071x3
+43,Dental Implant & Crown + Bone graft,684/691/243/236/673/679/022x2/071x3
+44,Bone Graft (GTR),243/236
+45,1 Crown,071/071/613/022
+46,2 Crown,071x2/071x2/613x2/022x2
+47,3 Crown,071x3/071x3/613x3/022x3
+48,4 Crown,071x4/071x4/613x4/022x4
+49,5 Crown,071x2/613x6/022x5
+50,6 Crown,071x2/613x6/022x6
+51,7 Crown,071x2/613x7/022x7
+52,8 Crown,071x2/613x8/022x8
+53,9 Crown,071x2/613x9/022x9
+54,3 Bridge treatment,071x2/613x2/643/022x2
+55,3 unit implant bridge,688x2/673/643/679/022x2/071x3
+56,1 Crown Pediatric - front tooth,071x2/588/022
+57,1 Crown Pediatric - Backtooth,071x2/587/022
+58,Additional Bridge - Pontic ,643
+59,Temporary Additional Bridge - Pontic,632
+60,Temporary attachment Device (TAD),941/690/663
+61,Maxillary sinus augmentation treatment,243/246/37/236/27
+62,Metal partial denture treatment of upper partial denture - 7T 2R 2OR,013/014/727/731x2/733x7/732x2/071x2
+63,Metal partial denture treatment of lower partial denture - 7T 2R 2OR,013/014/728/731x2/733x7/732x2/071x2
+64,Temporary partial denture treatment,013/014/723/731x2/733x7/732x2/071
+65,Metal partial denture treatment of upper partial denture - 4T 3R 2OR,013/014/727/731x2/733x6/732x2/071x2
+66,Metal partial denture treatment of lower partial denture - 4T 3R 2OR,013/014/728/731x3/733x4/732/733/071x2
+67,Metal partial denture treatment of upper partial denture - 3T 3R 2OR,013/014/727/731x3/733x3/732x2/733/071x2
+68,Metal partial denture treatment of lower partial denture - 3T 3R 2OR,013/014/728/731x3/733x3/732x2/733/071x2
+69,RC Quick Package - Front,Emergency(Item No.013/419/022/572/941) + One canal RCT (Item No. 415/022x2/572/417/941x2) + Minor Fill (Item No. 521/941)
+70,RC Minor Package - Front,Emergency (Item No. 013/419/022/572/941) + canals RCT (Item No. 415/416/022x2/417/418/572/941x2) + Medium Fill (Item No. 523/941)
+71,RC Major Package - Front,Emergency (Item No. 013/419/022/572/941) + or more canals RCT (Item No.415/416x2/022x2/417/418x2/572/941x3) + Medium Fill (Item No. 523/941)
+72,RC Quick Package - Back,Emergency(Item No.013/419/022/572/941) + One canal RCT (Item No. 415/022x2/572/417/941x2) + Minor Fill (Item No. 531/941)
+73,RC Minor Package - Back,Emergency (Item No. 013/419/022/572/941) + canals RCT (Item No. 415/416/022x2/417/418/572/941x2) + Medium Fill (Item No. 533/941)
+74,RC Major Package - Back,Emergency (Item No. 013/419/022/572/941) + or more canals RCT (Item No.415/416x2/022x2/417/418x2/572/941x3) + Medium Fill (Item No. 533/941)
+75,Student Treatment Package,"-Lite Aligner
+Pre Aligner (825/825/071/071/115/862x6/014/982x2) 
++ Monitoring Appointments (014/115/072/073/141)x2
++ Post Aligner (845/845/071/071/871)
+-Sparkling Smile ((013/111/118)x8)/165/941x2
+-Regular Maintance (Routine Clean) 013/114/121/141
+-Medium Fill (523/941)
+-Quick Clean (114)"
+76,PreAligner Hygiene package,Treatment Planning (037/072/073/221/011) + Consultation and TP presentation (015/018) + (071x2)
+77,Complete check package,Routine Clean (013/114/121/141)   +Caries Xrays (022x4)
+78,Prevention Seal package,Prevention (161x5)
+79,Temporary attachment Device (TAD) VERSI LAMA,941/688/690/663/845x2
+80,1 Crown - Resin,71/71/613/22
+81,Reattachment of fixed wire retainer,874/872
+82,Plastic retainer /40,825.825
+83,Oral Health Index - Advance Hygiene (First Time) - Subscription (New Customer),11/37/221/72/11/37/221/72/48/47
+84,Oral Health Index - Advance Hygiene (Add Time) - Subscription (Current Cust),11/37/221/72/48/47
+85,5 unit Implant bridge (support),688.688.673.673.673.643.643.679.22.22.71.71.71
+86,4 unit Implant bridge (support),688.688.673.673.643.643.679.22.22.71.71.71
+87,2 unit Implant bridge (support),688.688.673.643.679.22.22.71.71.71
+88,Clinical Occlusal Analysis,963
+89,Adjunct phys therapy for TMJ,971
+90,Occlusal Adjustment,961
+91,Periodontal surgery (Crown Lengthening),238
+92,Periodontal surgery (Involving),245
+93,6 unit Implant bridge (support) -1,688.688.673.673.673.673.643.643.679.22.22.71.71.71
+94,6 unit Implant bridge (support) -2,688.688.673.673.673.643.643.643.679.22.22.71.71.71
+95,Root canal 1 & Post,415.22.22.572.417.941.597.941
+96,Smile Fix - Porceline,13.111.556.941
+97,Complete Denture (Atas Bawah),13.14.719.716.71.71
+98,Splinting & Stabilisation,981
+99,complete upper denture,13.14.716.711.71.71
+100,Denture Reparation (BROKEN BASE PARTIAL DENTURE),13.14.764.71.71
+101,7 unit Implant bridge (support),688.688.673.673.673.673.673.643.643.679.22.22.71.71.71
+102,Complete Denture Lower,13.14.716.712.71.71
+103,Denture Reparation (Reattaching pre-existing clasp to denture),13.14.761.71.71
+104,Denture Reparation (Repair or addition to metal casting),13.14.769.71.71
+105,Denture Reparation (Replacing/adding clasp to denture – per clasp),13.14.762.71.71
+106,Denture Reparation (Repairing broken base of a complete denture),13.14.763.71.71
+107,Denture Reparation (Reattaching existing tooth on denture – per tooth),13.14.766.71.71
+108,Denture Reparation (Adding tooth to partial denture to replace an extracted or decoronated tooth – per tooth),13.14.768.71.71
+109,Denture Reparation (Replacing/adding new tooth on denture – per tooth),13.14.765.71.71
+110,Removal of fixed retainer,824
+111,Removal of passive appliance,874
+112,Full banding bracket placement,831
+113,Fixed retainer,845
+114,"4 Bridge treatment 2A, 2P",71.71.613.613.643.643.22.22
+115,"5 Bridge treatment 3A, 2P",71.71.613.613.613.643.643.22.22
+116,"6 Bridge treatment  3A,3P",71.71.71.613.613.613.643.643.643.22.22
+117,"2 Bridge treatment  1A,1P",71.71.613.643.22.22
+118,Provisional crown – per tooth,631
+119,"Repair of crown, bridge or splint - indirect",658
+120,"Repair of crown, bridge or splint – direct",659
+121,Monit 1,14.115.72.73.141.73

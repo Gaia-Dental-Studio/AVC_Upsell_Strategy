@@ -1,0 +1,122 @@
+Treatment,total_price,total_cost,total_duration
+Consultation,83.0,25,30.0
+Consultation and TP presentation,100.0,30,45.0
+Treatment Planning,178.0,54,95.0
+Quick clean - scalling,83.0,25,30.0
+Routine Clean - dental checkup,156.0,47,65.0
+Advanced Hygiene,268.0,82,115.0
+Basic Clean,145.0,44,50.0
+Prevention Seal,24.0,7,15.0
+Caries Xrays,24.0,8,60.0
+Minor Fill front teeth,97.0,29,90.0
+Minor Fill back teeth,117.0,35,90.0
+Medium Fill Front teeth,230.0,69,120.0
+Medium Fill Back teeth,216.0,65,120.0
+Major fill Front Teeth,447.0,135,120.0
+Major fill Back Teeth,387.0,117,120.0
+Baby Tooth Extraction,125.0,38,105.0
+Minor Extraction ,235.0,71,105.0
+Medium Extraction ,334.0,100,120.0
+Major Extraction,545.0,164,165.0
+Emergency,283.0,85,150.0
+Root canal 1,746.0,224,255.0
+Root canal 2,1188.0,357,280.0
+Root canal 3,1660.0,499,365.0
+Root canal 4,2108.0,634,405.0
+Simple gum treatment,144.0,43,120.0
+Simple gum treatment follow up,142.0,43,90.0
+Deep Gum treatment,206.0,61,80.0
+Gingivectomy - per tooth,110.0,33,90.0
+Crown Lengthening - per tooth,267.0,80,105.0
+Acute periodontal disease,120.0,36,105.0
+Deep Gum treatment With Laser (LAPT),364.0,108,100.0
+Sparkling smile (In & Out ),267.0,80,105.0
+Pearly white (Whitening kit ),541.0,162,70.0
+Smile Fix,349.0,105,135.0
+Refresh (New),50.0,15,45.0
+Rejuvenate (New),50.0,15,45.0
+Lite Aligner ( Easy Level),3876.0,1161,880.0
+Basic Aligner (Medium Level),4600.0,1377,1240.0
+Premium Aligner (Difficult Level),5505.0,1647,1690.0
+Mouth Guard pro,202.0,61,25.0
+Wear Protect - Occlusal Splint,485.0,145,170.0
+Dental Implant & Crown,3747.0,1125,135.0
+Dental Implant & Crown + Bone graft,5177.0,1554,265.0
+Bone Graft (GTR),951.0,286,70.0
+1 Crown,1400.0,420,95.0
+2 Crown,2800.0,840,190.0
+3 Crown,4200.0,1260,285.0
+4 Crown,5600.0,1680,380.0
+5 Crown,8064.0,2418,455.0
+6 Crown,8070.0,2420,470.0
+7 Crown,9404.0,2820,545.0
+8 Crown,10738.0,3220,620.0
+9 Crown,12072.0,3620,695.0
+3 Bridge treatment,3042.0,912,200.0
+3 unit implant bridge,5627.0,1689,180.0
+1 Crown Pediatric - front tooth,274.0,83,80.0
+1 Crown Pediatric - Backtooth,240.0,72,80.0
+Additional Bridge - Pontic ,308.0,92,30.0
+Temporary Additional Bridge - Pontic,338.0,101,60.0
+Temporary attachment Device (TAD),2583.0,775,120.0
+Maxillary sinus augmentation treatment,1477.0,444,120.0
+Metal partial denture treatment of upper partial denture - 7T 2R 2OR,1450.0,436,330.0
+Metal partial denture treatment of lower partial denture - 7T 2R 2OR,1450.0,436,330.0
+Temporary partial denture treatment,1328.0,399,320.0
+Metal partial denture treatment of upper partial denture - 4T 3R 2OR,1377.0,414,320.0
+Metal partial denture treatment of lower partial denture - 4T 3R 2OR,1305.0,392,330.0
+Metal partial denture treatment of upper partial denture - 3T 3R 2OR,1328.0,399,340.0
+Metal partial denture treatment of lower partial denture - 3T 3R 2OR,1328.0,399,340.0
+RC Quick Package - Front,1126.0,338,495.0
+RC Minor Package - Front,1701.0,511,550.0
+RC Major Package - Front,2173.0,653,635.0
+RC Quick Package - Back,1146.0,344,495.0
+RC Minor Package - Back,1687.0,507,550.0
+RC Major Package - Back,2159.0,649,635.0
+Student Treatment Package,5835.0,1749,1494.0
+PreAligner Hygiene package,344.0,104,160.0
+Complete check package,180.0,55,125.0
+Prevention Seal package,120.0,35,75.0
+Temporary attachment Device (TAD) VERSI LAMA,4503.0,1351,255.0
+1 Crown - Resin,1400.0,420,95.0
+Reattachment of fixed wire retainer,251.0,75,120.0
+Plastic retainer /40,2050.0,616,60.0
+Oral Health Index - Advance Hygiene (First Time) - Subscription (New Customer),461.0,140,190.0
+Oral Health Index - Advance Hygiene (Add Time) - Subscription (Current Cust),311.0,94,125.0
+5 unit Implant bridge (support),9251.0,2775,270.0
+4 unit Implant bridge (support),7593.0,2278,240.0
+2 unit Implant bridge (support),5627.0,1689,180.0
+Clinical Occlusal Analysis,295.0,89,5.0
+Adjunct phys therapy for TMJ,168.0,50,30.0
+Occlusal Adjustment,134.0,40,60.0
+Periodontal surgery (Crown Lengthening),231.0,69,30.0
+Periodontal surgery (Involving),119.0,36,30.0
+6 unit Implant bridge (support) -1,10909.0,3272,300.0
+6 unit Implant bridge (support) -2,9559.0,2867,300.0
+Root canal 1 & Post,932.0,280,270.0
+Smile Fix - Porceline,594.0,178,150.0
+Complete Denture (Atas Bawah),871.0,261,170.0
+Splinting & Stabilisation,125.0,38,30.0
+complete upper denture,827.0,248,170.0
+Denture Reparation (BROKEN BASE PARTIAL DENTURE),238.0,71,90.0
+7 unit Implant bridge (support),12567.0,3769,330.0
+Complete Denture Lower,827.0,248,170.0
+Denture Reparation (Reattaching pre-existing clasp to denture),225.0,68,95.0
+Denture Reparation (Repair or addition to metal casting),270.0,81,80.0
+Denture Reparation (Replacing/adding clasp to denture – per clasp),243.0,73,95.0
+Denture Reparation (Repairing broken base of a complete denture),195.0,59,65.0
+Denture Reparation (Reattaching existing tooth on denture – per tooth),324.0,97,80.0
+Denture Reparation (Adding tooth to partial denture to replace an extracted or decoronated tooth – per tooth),271.0,81,80.0
+Denture Reparation (Replacing/adding new tooth on denture – per tooth),253.0,76,80.0
+Removal of fixed retainer,113.0,34,45.0
+Removal of passive appliance,81.0,24,60.0
+Full banding bracket placement,153.0,46,30.0
+Fixed retainer,174.0,52,60.0
+"4 Bridge treatment 2A, 2P",3350.0,1004,230.0
+"5 Bridge treatment 3A, 2P",4678.0,1402,290.0
+"6 Bridge treatment  3A,3P",5019.0,1504,330.0
+"2 Bridge treatment  1A,1P",1714.0,514,140.0
+Provisional crown – per tooth,331.0,99,45.0
+"Repair of crown, bridge or splint - indirect",205.0,62,45.0
+"Repair of crown, bridge or splint – direct",148.0,44,30.0
+Monit 1,209.0,62,120.0
